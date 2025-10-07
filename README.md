@@ -12,6 +12,12 @@ Una API RESTful construida con Java y Spring Boot que simula un sistema de tabl�
 
 Este proyecto es una API backend que expone una serie de endpoints para gestionar "posts" o anuncios. Los datos se persisten en memoria para facilitar la demostración, sin necesidad de una base de datos externa. Es un ejemplo práctico de cómo construir APIs robustas y bien estructuradas con el ecosistema de Spring.
 
+
+
+## 📸 Muestra Visual
+
+<img width="1267" height="782" alt="image" src="https://github.com/user-attachments/assets/2e171f3a-e294-4a62-814f-019faaafb5d1" />
+
 ---
 
 ## Endpoints de la API
